@@ -3,5 +3,7 @@
 3 git config --global user.email "MailAddress"
 4 git clone "https://github.com/beyaks/git-training.git"
 5 git branch main
+6 git branch dev
+7 git switch dev
 
 
