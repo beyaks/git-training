@@ -1,0 +1,6 @@
+1 https://git-scm.com/download/win
+2 git config --global user.name "UserName"
+3 git config --global user.email "MailAddress"
+4 git clone "https://github.com/beyaks/git-training.git"
+
+
